@@ -3,19 +3,19 @@
   "content": "intro.md",
   "gallery": [
   {
-    "title": "Charmander",
-    "copy": "First Pokemon.",
-    "image": "../images/gallery/pokemon_1.jpg"
+    "title": "Internet Explorer",
+    "copy": "Slowpoke",
+    "image": "../images/gallery/slowpoke.jpg"
   },
   {
-    "title": "Psyduck",
-    "copy": "Second Pokemon.",
-    "image": "../images/gallery/pokemon_2.jpg"
+    "title": "Chrome",
+    "copy": "Meowth",
+    "image": "../images/gallery/meowth.jpg"
   },
   {
-    "title": "Clefairy",
-    "copy": "Third Pokemon.",
-    "image": "../images/gallery/pokemon_3.jpg"
+    "title": "FireFox",
+    "copy": "Vulpix",
+    "image": "../images/gallery/vulpix.jpg"
   }
 ]
 }
