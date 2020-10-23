@@ -2,20 +2,38 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [
-  {
-    "title": "Internet Explorer",
-    "copy": "Slowpoke",
-    "image": "../images/gallery/slowpoke.jpg"
-  },
-  {
-    "title": "Chrome",
-    "copy": "Meowth",
-    "image": "../images/gallery/meowth.jpg"
-  },
-  {
-    "title": "FireFox",
-    "copy": "Vulpix",
-    "image": "../images/gallery/vulpix.jpg"
-  }
-]
+    {
+      "title": "Internet Explorer",
+      "copy": "Slowpoke",
+      "page" : "/Article/3817098/PRIMER-the-Volcker-Rulecovered-funds.html",
+      "image": "../images/gallery/slowpoke.jpg"
+    },
+    {
+      "title": "Chrome",
+      "copy": "Meowth",
+      "image": "../images/gallery/meowth.jpg"
+    },
+    {
+      "title": "FireFox",
+      "copy": "Vulpix",
+      "image": "../images/gallery/vulpix.jpg"
+    }
+  ],
+  "gaIe": [
+    {
+      "Page": "/Article/3817098/PRIMER-the-Volcker-Rulecovered-funds.html"
+    },
+    {
+      "Page": "/Article/3817098/PRIMER-the-Volcker-Rulecovered-funds.html?ArticleId=3817098"
+    },
+    {
+      "Page": "/Article/3687356/Mifid-II-what-is-traded-on-a-trading-venue.html"
+    },
+    {
+      "Page": "/Article/3831598/PRIMER-the-secured-overnight-financing-rate-Sofr.html"
+    },
+    {
+      "Page": "/Article/3929240/IFLR-Europe-awards-2020-winners-announced.html"
+    }
+  ]
 }
